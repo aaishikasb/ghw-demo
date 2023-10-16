@@ -5,3 +5,4 @@
 - [ ] Have you added proper comments wherever needed?
 - [ ] Have you tried to merge the latest changes to avoid conflicts?
 
+<!--- Please add an "x" without spaces inside the square brackets to mark it -->
